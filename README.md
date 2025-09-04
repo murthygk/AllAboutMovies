@@ -27,5 +27,5 @@
 
 - If you were unable to finish the exercise, what issues did you face and how did you plan on finishing the exercise
 
-  App runs and minimum requirement of fetching movie information works fine with displaying title, image and rating as per the requirement and also No data message if nothing received from IMDB
+  App runs and minimum requirement of fetching movie information works fine with displaying title, image and rating as per the requirement and also No data message if nothing received from IMDB.
   As requirement specified tests added for rating to check floor/ceiling the values and also checking network success/failure validation on ViewModel.fetchMovie data calls
