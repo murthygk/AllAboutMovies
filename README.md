@@ -22,6 +22,7 @@
   No third party frameworks used
   
 - How long did you spend on this exercise? If you had unlimited time to spend on this, how would you spend it and how would you prioritize each item?
+  
   3 hours + git setup and time to write this ReadMe Doc.
 
 - If you were unable to finish the exercise, what issues did you face and how did you plan on finishing the exercise
